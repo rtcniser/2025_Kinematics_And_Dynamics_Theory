@@ -7,5 +7,6 @@ This encompasses introductory notes that can be used for teaching and reffering 
 
 ## Contributors
 Concepts and Reading - Girija Sankar Ray (Int. MSc. B21)
+
 Members Involved - Arnav Bhayana (Int. MSc. B24), Sriram Nagulan (Int. MSc. B24), Vansh Patwa (Int. MSc. B24), Gaurav Pal (Int. MSc. B24), Mayukh Ghosh (Int. MSc. B23))
 
